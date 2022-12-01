@@ -1,0 +1,9 @@
+.collection-preview .display-6 {
+  margin-block: 40px;
+}
+
+.collection-preview .preview {
+  display: grid;
+  gap: 40px;
+  grid-template-columns: repeat(4, 1fr);
+}
