@@ -1,7 +1,0 @@
-# Yarn
-/build
-/node_modules
-yarn.lock
-
-# Copy
-/public/index.css
